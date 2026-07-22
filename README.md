@@ -4,7 +4,7 @@ Desenvolvedor Front-End
 
 <p align="justify">Olá! Meu nome é Alisson Oliveira, tenho 20 anos e moro em Salvador - BA. Sou formado no curso técnico de Desenvolvimento de Sistemas pelo SENAI Cimatec. Atualmente, tenho maior experiência com Front-End, desenvolvendo interfaces web com HTML, CSS e JavaScript. Estou buscando aprender novas tecnologias e me aprofundando no Back-End para ampliar minhas habilidades e me tornar um desenvolvedor Full-Stack.</p>
 
-## Tecnologias que eu uso
+## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
